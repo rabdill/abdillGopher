@@ -1,22 +1,31 @@
 Richard J. Abdill
-Email: iam@richabdill.com
+Email: richard.abdill@gmail.com
 
 ===RESUME===
 
 ====
+=Interests=
+
+Professionally, I'm interested primarily in backend web development and systems programming. I know and enjoy coding in Golang, but have also worked with Python and am always open to try a new technology. I am for the most part not interested in fiddling with frontend JavaScript frameworks.
+
+====
 =Work history=
-
-TARGET
- Senior engineer, Sept. 2015 to present
-
-AMAZON WEB SERVICES
- DevOps consultant, 2015
 
 USA TODAY / GANNETT DIGITAL
  Systems engineer, 2014-2015
+ Developer, 2016-present
+
+TARGET
+ Lead engineer, 2015-2016
+
+AMAZON WEB SERVICES
+ DevOps consultant, 2015
 
 UNITED NATIONS FOUNDATION
  IT support specialist, 2014
 
 RAINKING SOLUTIONS
  Help desk technician, 2012-2014
+
+VILLAGE VOICE MEDIA
+ Staff writer, 2012
